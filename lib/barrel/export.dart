@@ -24,7 +24,7 @@ export 'package:instagram/screens/login_screen.dart';
 export 'package:instagram/screens/profile_screen.dart';
 export 'package:instagram/screens/search_screen.dart';
 export 'package:instagram/screens/signup_screen.dart';
-export 'package:instagram/utils/color.dart';
+export 'package:instagram/utils/colors.dart';
 export 'package:instagram/utils/global_variable.dart';
 export 'package:instagram/utils/utils.dart';
 export 'package:instagram/widgets/comment_card.dart';
